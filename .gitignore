@@ -4,6 +4,12 @@
 *.obj
 *.elf
 
+# vim temporary files
+*.*~
+
+# Visual Studio
+.vs*
+
 # Precompiled Headers
 *.gch
 *.pch
